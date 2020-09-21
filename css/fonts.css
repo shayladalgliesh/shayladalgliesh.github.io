@@ -1,0 +1,36 @@
+
+@font-face {
+	font-weight: bold;
+	font-family: "baskerville";
+	src: url('../fonts/LibreBaskerville-Bold.ttf');
+}
+
+@font-face {
+	font-weight: normal;
+	font-family: "waymar";
+	src: url('../fonts/Waymar.woff');
+}
+
+@font-face {
+	font-weight: normal;
+	font-family: "inria";
+	src: url('../fonts/InriaSerif-Regular.ttf');
+}
+
+@font-face {
+	font-weight: bold;
+	font-family: "inria";
+	src: url('../fonts/InriaSerif-Bold.ttf');
+}
+
+@font-face {
+	font-weight: bold;
+	font-family: "montserrat";
+	src: url('../fonts/Montserrat-Bold.ttf');
+}
+
+@font-face {
+	font-weight: lighter;
+	font-family: "montserrat";
+	src: url('../fonts/Montserrat-Light.ttf');
+}

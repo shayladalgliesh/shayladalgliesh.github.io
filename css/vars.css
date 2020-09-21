@@ -1,0 +1,22 @@
+:root {
+	--bg-0: rgb(14, 19, 24);
+	--bg-1: rgb(61, 53, 55);
+	--bg-1-a: rgba(61, 53, 55, 128);
+	--fg-0: rgb(255, 255, 255);
+	--fg-1: rgb(250, 245, 255);
+	--fg-2: rgb(161, 138, 164);
+	--fg-3: rgb(254, 206, 90);
+	--fg-4: rgb(238, 235, 231);
+	--fg-5: rgb(89, 18, 41);
+	
+	--r-angle-1: 14.88deg;
+	--r-angle-2: -26.8deg;
+	--r-angle-3: -25.5deg;
+	--r-angle-4: 17.1deg;
+
+	--phi: 1.667;
+	--phi-inv: 1 / 1.667;
+	--phi-inv-pct: calc(100% * var(--phi-inv));
+
+	--perspective-factor: 1%;
+}
